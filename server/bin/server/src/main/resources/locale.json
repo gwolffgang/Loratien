@@ -1,0 +1,60 @@
+{
+	"de": {
+		"composure": {
+			"default": "Fassung"
+		},
+		"dexterity": {
+			"default": "Gewandheit"
+		},
+		"intelligence": {
+			"default": "Intelligenz"
+		},
+		"manipulation": {
+			"default": "Manipulation"
+		},
+		"presence": {
+			"default": "Präsenz"
+		},
+		"resolve": {
+			"default": "Entschlossenheit"
+		},
+		"stamina": {
+			"default": "Widerstandsfähigkeit"
+		},
+		"strength": {
+			"default": "Körperkraft"
+		},
+		"wits": {
+			"default": "Geistesschärfe"
+		}
+	},
+	"en": {
+		"composure": {
+			"default": "composure"
+		},
+		"dexterity": {
+			"default": "dexterity"
+		},
+		"intelligence": {
+			"default": "intelligence"
+		},
+		"manipulation": {
+			"default": "manipulation"
+		},
+		"presence": {
+			"default": "presence"
+		},
+		"resolve": {
+			"default": "resolve"
+		},
+		"stamina": {
+			"default": "stamina"
+		},
+		"strength": {
+			"default": "strength"
+		},
+		"wits": {
+			"default": "wits"
+		}
+	}
+}
